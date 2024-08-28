@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 99ee0773337b653459f035bd50779857
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263695
+  packageName: Critter 3D Pixel Camera
+  packageVersion: 2.1.0
+  assetPath: Assets/3DPixelCamera/URP.unitypackage
+  uploadId: 679231

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5732bc977d6bfc742be21d3716c87cca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270038
+  packageName: Critter Environment
+  packageVersion: 1.3
+  assetPath: Assets/3DPixelArtEnvironment/Scripts/PixelOutlineSetupFeature.cs
+  uploadId: 665264
