@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 48876c50729070b4ab7f4afb22a87056
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63336
+  packageName: MagicaVoxel Toolbox
+  packageVersion: 2.2.5
+  assetPath: Assets/MagicaVoxel Toolbox/Demo/Misc/Yara (Rigged)_rigData.json
+  uploadId: 676662

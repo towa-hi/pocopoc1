@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c560e550cf96018429c68be24ad84a1e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000, type: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63336
+  packageName: MagicaVoxel Toolbox
+  packageVersion: 2.2.5
+  assetPath: Assets/MagicaVoxel Toolbox/Script/Editor/Core/Core_CharacterGeneration.cs
+  uploadId: 676662

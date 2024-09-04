@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2ba3bbd8bcb358b4eb8512ee67d43fc2
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63336
+  packageName: MagicaVoxel Toolbox
+  packageVersion: 2.2.5
+  assetPath: Assets/MagicaVoxel Toolbox/Data/Current Map Generation Preset.json
+  uploadId: 676662

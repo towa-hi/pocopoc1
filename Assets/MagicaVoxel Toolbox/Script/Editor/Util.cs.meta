@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e2fd04bb2fb85ac40bd71608a7d90907
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2488908585195742037, guid: 0000000000000000d000000000000000, type: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63336
+  packageName: MagicaVoxel Toolbox
+  packageVersion: 2.2.5
+  assetPath: Assets/MagicaVoxel Toolbox/Script/Editor/Util.cs
+  uploadId: 676662

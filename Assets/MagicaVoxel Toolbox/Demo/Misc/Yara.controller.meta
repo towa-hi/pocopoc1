@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f4ced24ee6962214c8295bef810bc5d5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63336
+  packageName: MagicaVoxel Toolbox
+  packageVersion: 2.2.5
+  assetPath: Assets/MagicaVoxel Toolbox/Demo/Misc/Yara.controller
+  uploadId: 676662

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 71180ee77b23a364aad521e1ad695e21
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63336
+  packageName: MagicaVoxel Toolbox
+  packageVersion: 2.2.5
+  assetPath: Assets/MagicaVoxel Toolbox/Demo/Misc/Run.anim
+  uploadId: 676662

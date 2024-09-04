@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e8b819dce75cde84282c3498278dfd91
+timeCreated: 1553348563
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63336
+  packageName: MagicaVoxel Toolbox
+  packageVersion: 2.2.5
+  assetPath: Assets/MagicaVoxel Toolbox/Data/Default Skeletal Character.prefab
+  uploadId: 676662

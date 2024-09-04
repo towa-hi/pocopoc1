@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 94a22c59d1bb88b419021e87a88de6c0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63336
+  packageName: MagicaVoxel Toolbox
+  packageVersion: 2.2.5
+  assetPath: Assets/MagicaVoxel Toolbox/Demo/Misc/Bicycle_VOX.prefab
+  uploadId: 676662
