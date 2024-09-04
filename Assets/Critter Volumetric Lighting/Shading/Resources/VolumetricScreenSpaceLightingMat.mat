@@ -8,8 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: VolumetricScreenSpaceLightingMat
-  m_Shader: {fileID: -6465566751694194690, guid: cc6c6d2b321e4ff489619bf1c6e40be5,
-    type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: cc6c6d2b321e4ff489619bf1c6e40be5, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -182,7 +181,7 @@ Material:
     - _pixelSizeInWorldUnits: 0.078125
     - _pixelUvLen: 0.00125
     - _planeHeightWorldUnits: 65
-    - _planeWidthWorldUnits: 40.79458
+    - _planeWidthWorldUnits: 36.05551
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Beam_Color: {r: 0, g: 0, b: 0, a: 0}
@@ -192,16 +191,17 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _NoiseStep: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _anchorForward: {r: 0.61237293, g: -0.50000006, b: 0.61237204, a: 0}
-    - _anchorPosition: {r: -48.609726, g: 23.669147, b: -58.684715, a: 0}
-    - _anchorUp: {r: 0.12934914, g: 0.82752615, b: 0.5463235, a: 0}
+    - _anchorForward: {r: -0.6123152, g: -0.5000019, b: 0.6124283, a: 0}
+    - _anchorPosition: {r: 27.661673, g: 23.669231, b: -38.839615, a: 0}
+    - _anchorUp: {r: -0.12932807, g: 0.8275345, b: 0.5463158, a: 0}
     - _cloudDataAnchorPosition: {r: 13.126203, g: 21.220379, b: -23.203003, a: 0}
     - _cloudDataAnchorUp: {r: -0.7905737, g: 0.38144845, b: -0.47905147, a: 0}
     - _cloudDataProjectionOrigo: {r: 13.186621, g: 13.290992, b: -29.616547, a: 0}
     - _cloudDataProjectionUvDirX: {r: -0.9999992, g: 0, b: 0.0011967393, a: 0}
     - _cloudDataProjectionUvDirY: {r: -0.0004574252, g: 0, b: -0.9999999, a: 0}
-    - _planeOrigo: {r: -64.51789, g: 18.460825, b: -47.02911, a: 0}
+    - _planeOrigo: {r: 13.600664, g: 28.271955, b: -49.140244, a: 0}
   m_BuildTextureStacks: []
+  m_AllowLocking: 1
 --- !u!114 &1457556406269589912
 MonoBehaviour:
   m_ObjectHideFlags: 11
